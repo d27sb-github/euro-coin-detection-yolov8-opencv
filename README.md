@@ -60,8 +60,6 @@ Za treniranje i testiranje korištene su slike euro kovanica iz javno dostupnih 
 * DepositPhotos – euro coins: <https://depositphotos.com/photos/euro-coins.html>
 * Getty Images – euro coins: <https://www.gettyimages.com/photos/euro-coins>
 
-> **Napomena:** pri javnoj objavi repozitorija potrebno je poštivati licencne uvjete svakog izvora slika, posebno za slike preuzete s komercijalnih servisa.
-
 ## Klasični pristup
 
 ### Okruženje
