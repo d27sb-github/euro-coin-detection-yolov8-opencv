@@ -1,0 +1,14 @@
+path: dataset_final
+
+train: images/train
+val: images/val
+
+names:
+  0: 1cent
+  1: 2cent
+  2: 5cent
+  3: 10cent
+  4: 20cent
+  5: 50cent
+  6: 1euro
+  7: 2euro
