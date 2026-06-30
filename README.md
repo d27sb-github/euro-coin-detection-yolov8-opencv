@@ -349,3 +349,7 @@ Rezultat detekcije prikazuje:
 Model `yolov8n.pt` pri prvom pokretanju može biti preuzet automatski putem Ultralytics paketa ako nije već dostupan lokalno. Nakon treniranja za inferenciju se preporučuje koristiti datoteku `best.pt`, koja predstavlja najbolji model prema validacijskim rezultatima.
 
 Direktoriji `dataset_aug/`, `dataset_final/`, `coin_training/` i datoteke težina modela mogu zauzimati više prostora. Ako se ne uključuju u repozitorij, potrebno ih je generirati pokretanjem skripti redoslijedom opisanim u ovom README dokumentu.
+
+## Autor
+
+Dario Šaša, student Tehničkog fakulteta Sveučilišta u Rijeci
